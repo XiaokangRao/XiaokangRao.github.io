@@ -8,7 +8,7 @@ redirect_from:
 
 ## About
 
-I am a KTP Associate working on structural health monitoring and sensing systems at Abacus Lighting Ltd and Loughborough University.
+I am a KTP Associate working on structural health monitoring and sensing systems at Loughborough University.
 
 My research and engineering interests include GNSS/RTK deformation monitoring, structural health monitoring, IoT sensing systems, signal processing, and geospatial technologies.
 
@@ -26,10 +26,10 @@ I received my PhD in Geodesy and Survey Engineering from Wuhan University. My pr
 ## Current Position
 
 **KTP Associate**  
-Abacus Lighting Ltd & Loughborough University  
+Loughborough University  
 2026–Present
 
-My current work focuses on the development of structural health monitoring systems for lighting masts, including sensing, vibration monitoring, data acquisition, wireless communication, and data analysis.
+My current work focuses on the development of structural health monitoring systems, including sensing, vibration monitoring, data acquisition, wireless communication, and data analysis.
 
 ## Links
 
