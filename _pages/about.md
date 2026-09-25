@@ -1,24 +1,38 @@
 ---
 permalink: /
-title: "Hello, everyone"
+title: "Xiaokang Rao"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
-  - /about.html
 ---
 
-This is about me!
+## About
 
+I am a KTP Associate working on structural health monitoring and sensing systems at Abacus Lighting Ltd and Loughborough University.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My research and engineering interests include GNSS/RTK deformation monitoring, structural health monitoring, IoT sensing systems, signal processing, and geospatial technologies.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I received my PhD in Geodesy and Survey Engineering from Wuhan University. My previous research and engineering experience includes GNSS, satellite remote sensing, UAVs, distributed fibre optic sensing, structural monitoring, and hydropower engineering.
+
+## Research Interests
+
+- Structural Health Monitoring
+- GNSS / RTK deformation monitoring
+- Geodesy and geospatial sensing
+- IoT and wireless sensor systems
+- Signal processing
+- Structural and infrastructure monitoring
+
+## Current Position
+
+**KTP Associate**  
+Abacus Lighting Ltd & Loughborough University  
+2026–Present
+
+My current work focuses on the development of structural health monitoring systems for lighting masts, including sensing, vibration monitoring, data acquisition, wireless communication, and data analysis.
+
+## Links
+
+[Google Scholar](YOUR_GOOGLE_SCHOLAR_URL) ·
+[ORCID](YOUR_ORCID_URL) ·
+[GitHub](https://github.com/xiaokangrao)
