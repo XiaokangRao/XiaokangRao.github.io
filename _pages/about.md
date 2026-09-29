@@ -27,18 +27,7 @@ My research interests include structural health monitoring, GNSS/RTK, vibration 
 {% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
-- Structural Health Monitoring
-- GNSS / RTK
-- Vibration and Modal Analysis
-- IoT and Wireless Sensing
-- Infrastructure Monitoring
-- Digital Twin
 
 <a id="cv"></a>
 ## CV
-- Structural Health Monitoring
-- GNSS / RTK
-- Vibration and Modal Analysis
-- IoT and Wireless Sensing
-- Infrastructure Monitoring
-- Digital Twin
+
