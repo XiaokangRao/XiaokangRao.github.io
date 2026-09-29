@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xiaokang Rao"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,18 @@ redirect_from:
 ---
 
 ## About me:
+I am Xiaokang Rao, a KTP Associate at Loughborough University, working on structural health monitoring and sensing technologies for infrastructure.
 
+My research interests include structural health monitoring, GNSS/RTK, vibration and modal analysis, IoT-based sensing, and digital technologies for infrastructure monitoring.
+
+### Research Interests
+
+- Structural Health Monitoring
+- GNSS / RTK
+- Vibration and Modal Analysis
+- IoT and Wireless Sensing
+- Infrastructure Monitoring
+- Digital Twin
 this is my website.this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website. this is my website.
 ## Publications
 {: #publications}
