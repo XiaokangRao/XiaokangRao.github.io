@@ -24,6 +24,9 @@ My research interests include structural health monitoring, GNSS/RTK, vibration 
 
 <a id="publications"></a>
 ## Publications
+{% for post in site.publications %}
+  {% include archive-single.html %}
+{% endfor %}
 - Structural Health Monitoring
 - GNSS / RTK
 - Vibration and Modal Analysis
