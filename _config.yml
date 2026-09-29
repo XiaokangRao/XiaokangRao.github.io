@@ -24,13 +24,13 @@ repository               : "XiaokangRao/XiaokangRao.github.io"
 author:
   # Biographic information
   avatar           : "Xiaokang.png"
-  name             : "XR"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Xiaokang Rao"
+  pronouns         :
+  bio              : "KTP Associate | Structural Health Monitoring | GNSS & Sensing"
+  location         : "Loughborough, UK"
+  employer         : "Loughborough University"
+  uri              : "https://xiaokangrao.github.io"
+  email            : "x.rao2@lboro.ac.uk"
 
   # Academic websites
   academia         : # URL
