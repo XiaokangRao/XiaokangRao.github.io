@@ -20,6 +20,12 @@ For those users that need more advanced functionality, the template also support
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
 
+## Publications
+{: #publications}
+
+## CV
+{: #cv}
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
